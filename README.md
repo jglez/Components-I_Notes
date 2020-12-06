@@ -1,4 +1,4 @@
-# Components I
+# Applied JavaScript Components I Notes
 
 ## Running this project
 
@@ -7,8 +7,3 @@ that compiles our frontend assets and comes with an integrated development serve
 
 The dev server runs on `http://localhost:1234` by default, but will use another port
 number if `1234` is being used by another application.
-
-- Clone the repo.
-- Navigate into the project folder.
-- Run `npm install` to download the project's dependencies.
-- Run `npm start` to compile the project and spin up a dev server on `localhost`.
